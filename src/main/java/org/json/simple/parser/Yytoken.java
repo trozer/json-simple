@@ -26,7 +26,7 @@ public class Yytoken {
 	}
 	
 	public String toString(){
-		StringBuffer sb = new StringBuffer();
+		StringBuilder sb = new StringBuilder();
 		switch(type){
 		case TYPE_VALUE:
 			sb.append("VALUE(").append(value).append(")");
@@ -51,6 +51,8 @@ public class Yytoken {
 			break;
 		case TYPE_EOF:
 			sb.append("END OF FILE");
+			break;
+		default:
 			break;
 		}
 		return sb.toString();
