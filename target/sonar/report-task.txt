@@ -2,5 +2,5 @@ projectKey=com.googlecode.json-simple:json-simple
 serverUrl=http://localhost:9000
 serverVersion=6.5.0.27846
 dashboardUrl=http://localhost:9000/dashboard/index/com.googlecode.json-simple:json-simple
-ceTaskId=AV6-ab8csD83Phk56JhM
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AV6-ab8csD83Phk56JhM
+ceTaskId=AV6-egCYsD83Phk56JhO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV6-egCYsD83Phk56JhO
